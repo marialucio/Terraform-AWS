@@ -15,9 +15,9 @@ provider "aws" {
 }
 
 
-## Altera tags sem provisionar novo recurso
+## Altera nome e força o recurso a ser recriado
 resource "aws_s3_bucket" "my-test-bucket" {
-  bucket = "lyona-bucket-1234"
+  bucket = "lyona-bucket-4321"
 
   tags = {
     Name        = "lyona-bucket-1234"
