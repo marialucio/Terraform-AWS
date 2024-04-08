@@ -1,3 +1,4 @@
 .terraform-basico/primeiro-script/.terraform/* filter=lfs diff=lfs merge=lfs -text
 terraform-basico/alterando-destruindo/.terraform/* filter=lfs diff=lfs merge=lfs -text
 terraform-basico/variaveis/.terraform/* filter=lfs diff=lfs merge=lfs -text
+terraform-basico/interpolacao-locals-outputs/.terraform/ filter=lfs diff=lfs merge=lfs -text
