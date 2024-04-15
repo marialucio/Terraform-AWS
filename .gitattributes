@@ -4,3 +4,4 @@ terraform-basico/variaveis/.terraform/* filter=lfs diff=lfs merge=lfs -text
 terraform-basico/interpolacao-locals-outputs/.terraform/ filter=lfs diff=lfs merge=lfs -text
 terraform-intermediario/remote-state/01-usando-remote-state/.terraform/* filter=lfs diff=lfs merge=lfs -text
 terraform-intermediario/remote-state/00-remote-state-bucket/.terraform/* filter=lfs diff=lfs merge=lfs -text
+terraform-intermediario/remote-state/builtin-functions/.terraform/* filter=lfs diff=lfs merge=lfs -text
